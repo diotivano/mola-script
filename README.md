@@ -13,7 +13,7 @@ Skrip Python ini dibuat untuk mempermudah proses pemeriksaan status layanan Pene
 - Python Standard Library (os, sys)
 
 ⚠️ Catatan
-- CAPTCHA tetap harus dimasukkan secara manual karena belum ada integrasi dengan OCR.
+- CAPTCHA tetap harus dimasukkan secara manual, file gambar CAPTCHA akan terunduh dalam folder yang sama.
 - File gambar CAPTCHA akan dihapus secara otomatis setelah pengguna memasukkan kodenya.
 - Pastikan koneksi internet stabil saat menjalankan skrip.
 
