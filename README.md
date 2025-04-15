@@ -18,7 +18,7 @@ Skrip Python ini dibuat untuk mempermudah proses pemeriksaan status layanan Pene
 - Pastikan koneksi internet stabil saat menjalankan skrip.
 
 ✅ Cara Penggunaan
-- dibutuhkan Python 3
+- install Python 3
 - install library requests dan BeautifulSoup (bs4)
 - jalankan python mola.py
 - Ikuti instruksi input di terminal untuk menyelesaikan proses pengecekan status.
