@@ -23,3 +23,4 @@ Skrip Python ini dibuat untuk mempermudah proses pemeriksaan status layanan Pene
 - jalankan python mola.py
 - Ikuti instruksi input di terminal untuk menyelesaikan proses pengecekan status.
 
+![alt text](https://github.com/diotivano/mola-script/blob/main/photo_6336852481925040421_x.jpg)
