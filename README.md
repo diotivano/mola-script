@@ -1,5 +1,5 @@
 **Monitoring SIASN BKN - Penetapan NIP/NI PPPK Script** <br />
-Skrip Python ini dibuat untuk mempermudah proses pemeriksaan status layanan Penetapan NIP/NI PPPK melalui situs [MOLA BKN](https://monitoring-siasn.bkn.go.id/). Skrip ini melakukan beberapa langkah otomatisasi, termasuk:
+Skrip Python ini dibuat sebagai alternatif untuk memeriksa status layanan Penetapan NIP/NI PPPK melalui situs [MOLA BKN](https://monitoring-siasn.bkn.go.id/). Skrip ini melakukan beberapa langkah otomatisasi, termasuk:
 
 - Mengambil CSRF token dari halaman utama
 - Meminta dan mengunduh gambar CAPTCHA terbaru
