@@ -1,4 +1,4 @@
-[LINK GOOGLE COLAB](https://colab.research.google.com/drive/1-_UWC9iAd_sTvJtUuN-wHZLzMXzH2BFW?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/weiji14/deepbedmap/](https://colab.research.google.com/drive/1-_UWC9iAd_sTvJtUuN-wHZLzMXzH2BFW?usp=sharing)]
 
 **Monitoring SIASN BKN - Penetapan NIP/NI PPPK Script** <br />
 Skrip Python ini dibuat sebagai alternatif untuk memeriksa status layanan Penetapan NIP/NI PPPK melalui situs [MOLA BKN](https://monitoring-siasn.bkn.go.id/). Skrip ini melakukan beberapa langkah otomatisasi, termasuk:
